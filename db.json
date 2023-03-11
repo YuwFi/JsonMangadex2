@@ -1,30 +1,5 @@
 {
-  "populer":[
-    {"id": 1,"title": "Jujutsu Kaisen Zero","imgUrl": "https://drive.google.com/uc?export=view&id=1rbSChaL1TjMIR7vjGV4kltvcrSvqj8tD","des":"Yuta Okkotsu is a high school student who's suffering from a serious problem his friend has turnes into curse","author":"Akutami Gege"},
-    {"id": 2,"title": "Bleach","imgUrl": "https://drive.google.com/uc?export=view&id=1VuKfNopCXSubOp1_CPQ7NndSc0GjZC58","des":"Ichigo Kurasaki has always able to see ghost found out he's actually a shinigami","author":"Kubo Tite"},
-    {"id": 3,"title": "Bungou Stray Dog","imgUrl": "https://drive.google.com/uc?export=view&id=1CTMvdkYk1yjLPE2GMpiDv94_UrbGgrEx","des":"Nakajima was kicked out from his orphanage and now he becomes special police because of his ability","author":"Asagiri Kafka, Harukawa35"}
-  ],
-  "terbaru":[
-    {"id": 1,"title": "The Slow Second Life of Sword Soldier","imgUrl": "https://drive.google.com/uc?export=view&id=1pMsfZ97uWVLAb4utov-ba5iOdwPvgvEk","des":"The dark soldier who can't use magic while in the Demon Lord's army, does he manage to survive?","author":"Saekisan, Suzu Yuuki"},
-    {"id": 2,"title": "The Magical Revolution","imgUrl": "https://drive.google.com/uc?export=view&id=1NnDKz7K_54yLyaqWvDi3j-iugHgP0-yH","des":"Shinichi Sagara, a black corporate warrior. Princess Anisphia defies the aristocracy's expectations","author":"by developing 'magicology', which based on memories"},
-    {"id": 3,"title": "My Civil Servant Life As a Reincarnated Battle Race","imgUrl": "https://drive.google.com/uc?export=view&id=1aF8m2_A_KUG3LfxlK2DdiyLHZ0y_v26M","des":"Reincarnated as Denburg Blade, the son of a legendary battle race chief, caught demons and a dragon at 12 years old.","author":"Gi So-Ryeong, il.k"}
-  ]
-  ,"musiman":[
-    {"id": 1,"title": "The Misfit of Demon King","imgUrl": "https://drive.google.com/uc?export=view&id=1v1zKkVOqeeZvRngHnPq3g5OJfBHWFewb","des":"The demon lord of tyranny, Anos destroyed humans, spirits, and even gods is reincarnating in this world!","author":"Shuu, Kaya Haruka"},
-    {"id": 2,"title": "Serial Killer Reincarnated in Another World","imgUrl": "https://drive.google.com/uc?export=view&id=17C7CWyB3Y1_u9hl_xqHhD3FNPs7CNRoT","des":"A murderer who cannot stop the urge to kill people is now living in a forein world","author":"Hitotsubu Ichigo, Hiro"},
-    {"id": 3,"title": "The Angel Next Door","imgUrl": "https://drive.google.com/uc?export=view&id=1e-ccpn140rPZU0yE0MuWjPNo1mUBplIB","des":"Mahiru is a beautiful girl, her classmates call her 'angel', cause she also smart","author":"Saekisan, Suzu Yuuki"}
-  ]
-  ,"added":[
-    {"id": 1,"imgUrl": "https://drive.google.com/uc?export=view&id=1Ps9Scl-hTnWIzdvpbWEQluqsfP1Fsb28"},
-    {"id": 2,"imgUrl": "https://drive.google.com/uc?export=view&id=1iXDEody5fNE_ND2n0047DZbi2ybWhc4a"},
-    {"id": 3,"imgUrl": "https://drive.google.com/uc?export=view&id=18C3YzD0OLwovvNA7voeMy6Li8l66y3T3"},
-    {"id": 4,"imgUrl": "https://drive.google.com/uc?export=view&id=1OGDThQuHG18eFke9eTH23o1lI03BHfya"}
-  ],"sortby":[
-    {"id": 1,"sort": "Latest Update"},
-    {"id": 2,"sort": "Highest Ranking"},
-    {"id": 3,"sort": "Most Follows"},
-    {"id": 4,"sort": "COMPLETED"}
-  ],"genre":[
+  "genre":[
     {"id": 1,"genre": "Action"},
     {"id": 2,"genre": "Curse"},
     {"id": 3,"genre": "Fantasy"},
