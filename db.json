@@ -16,7 +16,14 @@
   ],"read":[
     {"id": 1,"imgUrl": "https://drive.google.com/uc?export=view&id=1rbSChaL1TjMIR7vjGV4kltvcrSvqj8tD", "title": "Jujutsu Kaisen", "author": "Gege Akutagami", "chapter": "#122"},
     {"id": 2,"imgUrl": "https://drive.google.com/uc?export=view&id=1v1zKkVOqeeZvRngHnPq3g5OJfBHWFewb", "title": "The Misfit of Demon King", "author": "Shuu, Kaya Haruka", "chapter": "#45"},
-    {"id": 3,"imgUrl": "https://drive.google.com/uc?export=view&id=1NnDKz7K_54yLyaqWvDi3j-iugHgP0-yH", "title": "The Magical Revolution", "author": "Piero Katsu", "chapter": "#12"}
+    {"id": 3,"imgUrl": "https://drive.google.com/uc?export=view&id=1NnDKz7K_54yLyaqWvDi3j-iugHgP0-yH", "title": "The Magical Revolution", "author": "Piero Katsu", "chapter": "#12"},
+    {"id": 4,"imgUrl": "https://drive.google.com/uc?export=view&id=1e-ccpn140rPZU0yE0MuWjPNo1mUBplIB", "title": "The Angel Next Door", "author": "Saekisan", "chapter": "#10"},
+    {"id": 5,"imgUrl": "https://drive.google.com/uc?export=view&id=1VuKfNopCXSubOp1_CPQ7NndSc0GjZC58", "title": "Bleach", "author": "Kubo Tite", "chapter": "#686"},
+    {"id": 6,"imgUrl": "https://drive.google.com/uc?export=view&id=1CTMvdkYk1yjLPE2GMpiDv94_UrbGgrEx", "title": "Bungou Stray Dog", "author": "Asagiri Kafka", "chapter": "#106"},
+    {"id": 7,"imgUrl": "https://drive.google.com/uc?export=view&id=1pMsfZ97uWVLAb4utov-ba5iOdwPvgvEk", "title": "The Slow Second Life of Sword", "author": "Okazawa Rokujuuyon", "chapter": "#42"},
+    {"id": 8,"imgUrl": "https://drive.google.com/uc?export=view&id=17C7CWyB3Y1_u9hl_xqHhD3FNPs7CNRoT", "title": "Serial Killer Reincarnated in Another World", "author": "Hitotsubu Ichigo", "chapter": "#4"},
+    {"id": 9,"imgUrl": "https://drive.google.com/uc?export=view&id=1ITl9HuF-ZhPusNpHKMeiM114I5p8blYi", "title": "I'm not That Kind of Talent", "author": "Denpi", "chapter": "#21"},
+    {"id": 10,"imgUrl": "https://drive.google.com/uc?export=view&id=13jfglVK2R6WcxXYt-wh0NuG93cZ-SetA", "title": "The Frozen Player Return", "author": "JerryM ", "chapter": "#58"}
   ],"bookmark":[
     {"id": 1,"imgUrl": "https://drive.google.com/uc?export=view&id=1e-ccpn140rPZU0yE0MuWjPNo1mUBplIB", "title": "The Angel Next Door"},
     {"id": 2,"imgUrl": "https://drive.google.com/uc?export=view&id=1VuKfNopCXSubOp1_CPQ7NndSc0GjZC58", "title": "Bleach"},
